@@ -88,7 +88,7 @@ VAR gate_permiss = "0"
         -> DONE
 }
 
-=== win_flag ===
+=== winpont ===
 Игра: Вы достигли победного флага! Ура! Вы успешно справились.
 #Ending
 -> END
