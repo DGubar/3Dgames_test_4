@@ -4,6 +4,7 @@ VAR has_apple = "0"
 VAR biruza_fed = "0"
 VAR btn_active = "0"
 VAR gate_permiss = "0"
+VAR open = "0"
 
 -> start
 
